@@ -8,5 +8,4 @@ function fizzBuzz(num){
          console.log('Buzz');
     }else console.log(i);
 }
-
 fizzBuzz(30);
