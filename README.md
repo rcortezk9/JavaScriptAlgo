@@ -1,1 +1,1 @@
-# Creating Algorithms with JavaScript
+# Creating Algorithms with Javascript
